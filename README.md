@@ -13,4 +13,7 @@ Modify starter code to create an application that enables employees to generate 
 - [Live Page](https://carolinatnp.github.io/JS-password-generator/)
 
 ## Usability
+- HTML and CSS and Javascript documents create a random password generator
+- This project emphasizes the use of using Javascript to make dynamic changes to an HMTL document
+
 ![Screen Shot 2021-12-21 at 1 51 37 pm](https://user-images.githubusercontent.com/94167488/146862777-d1a7d611-b896-472b-9de3-5b4cbfb4dee7.png)
