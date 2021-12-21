@@ -10,6 +10,7 @@ Modify starter code to create an application that enables employees to generate 
 
 ## Links
 [Git Hub Repository](https://github.com/carolinatnp/JS-password-generator)
+[Live Page](https://carolinatnp.github.io/JS-password-generator/)
 
 ## Usability
 ![Screen Shot 2021-12-21 at 1 51 37 pm](https://user-images.githubusercontent.com/94167488/146862777-d1a7d611-b896-472b-9de3-5b4cbfb4dee7.png)
